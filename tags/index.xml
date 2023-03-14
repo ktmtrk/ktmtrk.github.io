@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hacking</title>
+    <link>https://ktmtrk.github.io/tags/</link>
+    <description>Recent content in Tags on Hacking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ktmtrk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>awk</title>
+      <link>https://ktmtrk.github.io/tags/awk/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktmtrk.github.io/tags/awk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://ktmtrk.github.io/tags/bash/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktmtrk.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>csv</title>
+      <link>https://ktmtrk.github.io/tags/csv/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktmtrk.github.io/tags/csv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://ktmtrk.github.io/tags/linux/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktmtrk.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monitoring</title>
+      <link>https://ktmtrk.github.io/tags/monitoring/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktmtrk.github.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>processors</title>
+      <link>https://ktmtrk.github.io/tags/processors/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktmtrk.github.io/tags/processors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>top</title>
+      <link>https://ktmtrk.github.io/tags/top/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ktmtrk.github.io/tags/top/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
